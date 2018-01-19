@@ -25,7 +25,7 @@ jobs:
       - checkout
 
     
-      run: gradle dependencies
+     - run: gradle dependencies
 
 
 
