@@ -23,8 +23,6 @@ jobs:
     
     steps:
       - checkout
-
-    
      - run: gradlew build
 
 
