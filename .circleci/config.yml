@@ -25,6 +25,6 @@ jobs:
    
     
 
-      - run: 'gradlew build'
+      - run: gradlew build
 
     
