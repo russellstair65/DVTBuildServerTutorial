@@ -21,3 +21,10 @@ jobs:
       JVM_OPTS: -Xmx3200m
       TERM: dumb
     
+    steps:
+   
+    
+
+      - run: buildw gradle
+
+    
