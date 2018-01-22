@@ -12,7 +12,7 @@ public class ConverterTest {
         float firstDigit = 10;
         float secondDigit = 5;
         float output;
-        double expected = 7.5;
+        double expected = 8.5;
         double delta = 0.1;
 
 
