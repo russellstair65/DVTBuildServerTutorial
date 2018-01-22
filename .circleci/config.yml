@@ -23,8 +23,6 @@ jobs:
     
    steps:
 
-      - run: 
-      command: gradlew build
 
 
     
