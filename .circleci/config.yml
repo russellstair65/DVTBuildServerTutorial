@@ -22,7 +22,7 @@ jobs:
       TERM: dumb
     
    steps:
-      - checkout
+
       - run: gradlew build
 
 
